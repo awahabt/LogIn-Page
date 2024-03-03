@@ -1,0 +1,36 @@
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Properties.Resources.resources
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.csproj.GenerateResource.cache
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.AssemblyInfoInputs.cache
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.AssemblyInfo.cs
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.csproj.CoreCompileInputs.cache
+D:\Asp.net\University Managemat System\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.exe
+D:\Asp.net\University Managemat System\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.deps.json
+D:\Asp.net\University Managemat System\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.runtimeconfig.json
+D:\Asp.net\University Managemat System\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.dll
+D:\Asp.net\University Managemat System\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.pdb
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Login.resources
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.dll
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\refint\University Managemat System.dll
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.pdb
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.genruntimeconfig.cache
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\ref\University Managemat System.dll
+D:\Asp.net\University Managemat System\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Form2.resources
+D:\repositories\LogIn Page\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.exe
+D:\repositories\LogIn Page\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.deps.json
+D:\repositories\LogIn Page\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.runtimeconfig.json
+D:\repositories\LogIn Page\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.dll
+D:\repositories\LogIn Page\University Managemat System\bin\Debug\net8.0-windows\University Managemat System.pdb
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Login.resources
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Form2.resources
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.Properties.Resources.resources
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.csproj.GenerateResource.cache
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.AssemblyInfoInputs.cache
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.AssemblyInfo.cs
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.csproj.CoreCompileInputs.cache
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.dll
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\refint\University Managemat System.dll
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.pdb
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.genruntimeconfig.cache
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\ref\University Managemat System.dll
