@@ -16,5 +16,12 @@ namespace University_Managemat_System
         {
             InitializeComponent();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Login f1 = new Login();
+            f1.Show();
+            this.Close();
+        }
     }
 }

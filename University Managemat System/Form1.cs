@@ -10,7 +10,7 @@ namespace University_Managemat_System
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(userName.Text=="Moin" && userPassword.Text == "Moin")
+            if (userName.Text == "Wahab" && userPassword.Text == "123")
             {
                 Form2 f2 = new Form2();
                 f2.Show();
@@ -20,6 +20,11 @@ namespace University_Managemat_System
             {
                 MessageBox.Show("Enter correct User ID");
             }
+        }
+
+        private void userName_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -75,6 +75,7 @@
             userName.Name = "userName";
             userName.Size = new Size(282, 25);
             userName.TabIndex = 3;
+            userName.TextChanged += userName_TextChanged;
             // 
             // userPassword
             // 
@@ -88,7 +89,7 @@
             button1.BackColor = SystemColors.ActiveCaptionText;
             button1.Font = new Font("Calibri", 8.830189F, FontStyle.Bold, GraphicsUnit.Point, 0);
             button1.ForeColor = Color.White;
-            button1.Location = new Point(356, 354);
+            button1.Location = new Point(341, 339);
             button1.Name = "button1";
             button1.Size = new Size(117, 41);
             button1.TabIndex = 6;
@@ -98,11 +99,11 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.BorderStyle = BorderStyle.FixedSingle;
+            pictureBox1.BackgroundImageLayout = ImageLayout.Center;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(325, 81);
+            pictureBox1.Location = new Point(343, 75);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(148, 123);
+            pictureBox1.Size = new Size(115, 115);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 7;
             pictureBox1.TabStop = false;
@@ -111,7 +112,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
-            BackColor = SystemColors.ActiveCaption;
+            BackColor = Color.White;
             ClientSize = new Size(774, 450);
             Controls.Add(pictureBox1);
             Controls.Add(button1);
