@@ -44,6 +44,7 @@
             button1.TabIndex = 0;
             button1.Text = "Next";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 

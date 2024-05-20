@@ -35,3 +35,4 @@ D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\
 D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.genruntimeconfig.cache
 D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\ref\University Managemat System.dll
 D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University Managemat System.sourcelink.json
+D:\repositories\LogIn Page\University Managemat System\obj\Debug\net8.0-windows\University_Managemat_System.newDashboard.resources

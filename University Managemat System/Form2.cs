@@ -23,5 +23,13 @@ namespace University_Managemat_System
             f1.Show();
             this.Close();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            newDashboard d1 = new newDashboard();
+            d1.Show();  
+            this.Close();   
+
+        }
     }
 }

@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\repositories\\LogIn Page\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|d:\\repositories\\login page\\university managemat system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +15,16 @@
       "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|d:\\repositories\\login page\\university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|D:\\repositories\\LogIn Page\\university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{328DAA01-A615-4DC5-BB25-52759F89B7A7}|University Managemat System\\University Managemat System.csproj|solutionrelative:university managemat system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Program.cs",
               "RelativeDocumentMoniker": "University Managemat System\\Program.cs",
               "ToolTip": "D:\\repositories\\LogIn Page\\University Managemat System\\Program.cs",
               "RelativeToolTip": "University Managemat System\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T07:21:32.674Z",
               "IsPinned": true,
@@ -48,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Form1.cs",
               "RelativeDocumentMoniker": "University Managemat System\\Form1.cs",
@@ -62,20 +66,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Form3.cs",
+              "RelativeDocumentMoniker": "University Managemat System\\Form3.cs",
+              "ToolTip": "D:\\repositories\\LogIn Page\\University Managemat System\\Form3.cs [Design]",
+              "RelativeToolTip": "University Managemat System\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:03:42.124Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Form2.cs",
               "RelativeDocumentMoniker": "University Managemat System\\Form2.cs",
               "ToolTip": "D:\\repositories\\LogIn Page\\University Managemat System\\Form2.cs",
               "RelativeToolTip": "University Managemat System\\Form2.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T15:45:34.974Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Form2.cs",
               "RelativeDocumentMoniker": "University Managemat System\\Form2.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\repositories\\LogIn Page\\University Managemat System\\Form1.cs",
               "RelativeDocumentMoniker": "University Managemat System\\Form1.cs",
